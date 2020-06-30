@@ -6,4 +6,6 @@
 
 #### The Project Codebase can be found [here](https://github.com/sayarghoshroy/Language-Modelling).
 
+#### Codebase for our mini-project is available [here](https://github.com/ujwal-narayan/Cognitive-Modeling).
+
 ---
